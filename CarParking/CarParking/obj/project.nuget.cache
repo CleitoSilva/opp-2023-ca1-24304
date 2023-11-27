@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kyKeevpXKvlwhYKGE5aCXZYPF1EkOB7pPvhk1+06mPb07u1PtU8XrMn21eHV4vBplxl2Pi/dLQX2kYDSPetefg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cleit\\OneDrive\\Documentos\\Degree 2° semester\\Object-Oriented Programming\\CarParking\\CarParking\\CarParking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cleit\\.nuget\\packages\\faker.net\\2.0.154\\faker.net.2.0.154.nupkg.sha512",
+    "C:\\Users\\cleit\\.nuget\\packages\\faker.netcore\\1.0.2\\faker.netcore.1.0.2.nupkg.sha512",
+    "C:\\Users\\cleit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cleit\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
